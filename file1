@@ -2,6 +2,7 @@ test first developer changes
 <<<<<<< Upstream, based on origin/master
 code introduced by developer 2
 additional code dev 1
+<<<<<<< Upstream, based on origin/master
 =======
 code introduced by dev 1
 
@@ -12,3 +13,8 @@ code introduced by dev 1
 ddf
 
 >>>>>>> 64d0431 kkk
+=======
+jv/
+hkhl
+jj
+>>>>>>> 34a8780 merge
